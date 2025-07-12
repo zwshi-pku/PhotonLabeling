@@ -26,6 +26,11 @@ PhotonLabeling is a lightweight desktop tool for labeling **photon point cloud d
 
 ![Selection Demo](docs/PhotonLabeling.gif)
 
+![Main Interface](docs/mainwindow.png)
+
+![Selection Demo](docs/PhotonLabeling.gif)
+
+
 ---
 
 ## 📂 File Format
