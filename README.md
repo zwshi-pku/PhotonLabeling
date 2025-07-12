@@ -12,7 +12,6 @@ PhotonLabeling is a lightweight desktop tool for labeling **photon point cloud d
 - ✅ Point-level editing and labeling
 - ✅ Real-time operation logging
 - ✅ Export labeled results to CSV
-- ✅ English/Chinese user interface (coming soon)
 
 ---
 
@@ -25,11 +24,6 @@ PhotonLabeling is a lightweight desktop tool for labeling **photon point cloud d
 ### Zoomed Region with Selection
 
 ![Selection Demo](docs/PhotonLabeling.gif)
-
-![Main Interface](docs/mainwindow.png)
-
-![Selection Demo](docs/PhotonLabeling.gif)
-
 
 ---
 
