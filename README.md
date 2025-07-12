@@ -20,14 +20,11 @@ PhotonLabeling is a lightweight desktop tool for labeling **photon point cloud d
 
 ### Main Window
 
-![Main Interface](docs/screenshots/main_interface.png)
+![Main Interface](docs/mainwindow.png)
 
 ### Zoomed Region with Selection
 
-![Selection Demo](docs/screenshots/zoom_selection.gif)
-
-> You can add more screenshots or GIFs in the `docs/screenshots/` folder and link them here.  
-> Tip: Use [ScreenToGif](https://www.screentogif.com/) or similar tools to record demo animations.
+![Selection Demo](docs/PhotonLabeling.gif)
 
 ---
 
