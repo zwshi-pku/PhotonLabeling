@@ -15,14 +15,7 @@ PhotonLabeling is a lightweight desktop tool for labeling **photon point cloud d
 
 ---
 
-## 📸 Interface Preview
-
-### Main Window
-
-![Main Interface](docs/mainwindow.png)
-
-### Zoomed Region with Selection
-
+## 📸 Main Window
 ![Selection Demo](docs/PhotonLabeling.gif)
 
 ---
@@ -38,3 +31,9 @@ x_coord,y_coord,label
 123.4,456.7,0
 125.1,458.3,0
 ...
+
+## 📖 Citation
+
+If this software is useful for your research, please cite the following paper:
+
+Shi, Z., Li, J., Yang, Z., Long, H., Cui, H., Zhao, S., Li, X., Li, Q. (2025). A Linear Feature-Based Method for Signal Photon Extraction and Bathymetric Retrieval Using ICESat-2 Data. Remote Sensing, 17(16), 2792. https://doi.org/10.3390/rs17162792
