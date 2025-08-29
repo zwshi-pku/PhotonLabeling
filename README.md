@@ -20,6 +20,7 @@ PhotonLabeling is a lightweight desktop tool for labeling **photon point cloud d
 
 ---
 
+
 ## 📂 File Format
 
 Input file format should be a CSV file with **X** and **Y** coordinates. You can select the corresponding column numbers when loading data.
@@ -30,7 +31,7 @@ Example:
 x_coord,y_coord,label
 123.4,456.7,0
 125.1,458.3,0
-...
+```
 
 ## 📖 Citation
 
