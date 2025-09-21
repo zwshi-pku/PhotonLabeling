@@ -16,7 +16,7 @@ PhotonLabeling is a lightweight desktop tool for labeling **photon point cloud d
 ---
 
 ## 📸 Main Window
-![Selection Demo](docs/PhotonLabeling.gif)
+![Selection Demo](docs/PhotonLabeling1.0.5.gif)
 
 Full Localization
 The entire application—UI, menus, dialogs, message prompts, and operation logs—has been fully localized into Chinese.
