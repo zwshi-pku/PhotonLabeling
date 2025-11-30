@@ -45,6 +45,20 @@ Use Help → Check for Updates to open the project homepage and view the latest 
 
 ---
 
+PhotonLabeling – New Feature Overview
+
+WebMap Geographic Map Viewer
+
+WebMap visualizes the spatial distribution of satellite photon point-cloud data on online satellite imagery. It supports switching between Google Satellite and ESRI World Imagery basemaps. Users can hover over any point to display its latitude, longitude, and elevation (height above ellipsoid) in real-time.
+
+The map is interactively linked with the main application window: whenever a rectangular region is selected there, WebMap automatically synchronizes the selection footprint and zooms to the corresponding location.
+![PhotonLabeling_webmap](https://github.com/user-attachments/assets/0c94f5e0-d044-49eb-ba0a-f587a8a76d8c)
+
+Label Configuration & Management
+
+This module manages the mapping between label values and label names, while dynamically updating per-label point counts using a built-in statistics panel. The software includes 9 commonly used predefined label categories, such as Noise, Signal, Ground, and Vegetation, each assigned a distinct color for rapid visual separation.
+![PhotonLabeling_labeling](https://github.com/user-attachments/assets/d86623cb-82b4-4c9d-8083-a60b248d88e1)
+
 
 ## 📂 File Format
 
