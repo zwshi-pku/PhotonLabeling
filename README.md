@@ -16,7 +16,11 @@ PhotonLabeling is a lightweight desktop tool for labeling **photon point cloud d
 ---
 
 ## 📸 Main Window
-![Selection Demo](docs/PhotonLabeling1.0.5.gif)
+![Selection Demo](docs/main1.gif)
+![Selection Demo](docs/main2.gif)
+![Selection Demo](docs/main4.gif)
+![Selection Demo](docs/main5.gif)
+![Selection Demo](docs/main6.gif)
 
 Full Localization
 The entire application—UI, menus, dialogs, message prompts, and operation logs—has been fully localized into Chinese.
@@ -40,7 +44,7 @@ Use Help → Check for Updates to open the project homepage and view the latest 
 帮助与更新
 帮助 → 检查更新 可打开项目主页，查看最新版本与变更。
 
-<img width="1337" height="863" alt="PhotonLabeling_zh" src="https://github.com/user-attachments/assets/917391fc-0572-4070-ab51-3d9ba283c2da" />
+![Selection Demo](docs/main3.gif)
 
 
 ---
@@ -52,25 +56,16 @@ WebMap Geographic Map Viewer
 WebMap visualizes the spatial distribution of satellite photon point-cloud data on online satellite imagery. It supports switching between Google Satellite and ESRI World Imagery basemaps. Users can hover over any point to display its latitude, longitude, and elevation (height above ellipsoid) in real-time.
 
 The map is interactively linked with the main application window: whenever a rectangular region is selected there, WebMap automatically synchronizes the selection footprint and zooms to the corresponding location.
-![PhotonLabeling_webmap](https://github.com/user-attachments/assets/0c94f5e0-d044-49eb-ba0a-f587a8a76d8c)
 
 Label Configuration & Management
 
 This module manages the mapping between label values and label names, while dynamically updating per-label point counts using a built-in statistics panel. The software includes 9 commonly used predefined label categories, such as Noise, Signal, Ground, and Vegetation, each assigned a distinct color for rapid visual separation.
-![PhotonLabeling_labeling](https://github.com/user-attachments/assets/d86623cb-82b4-4c9d-8083-a60b248d88e1)
 
 
 ## 📂 File Format
 
-Input file format should be a CSV file with **X** and **Y** coordinates. You can select the corresponding column numbers when loading data.
+Input file format should be a CSV file. You can select the corresponding column numbers when loading data.
 
-Example:
-
-```csv
-x_coord,y_coord,label
-123.4,456.7,0
-125.1,458.3,0
-```
 
 ## 📖 Citation
 
